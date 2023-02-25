@@ -13,3 +13,7 @@ BubbleSort(array, n)
 print("Sorted array is:")
 for i in range(n):
     print(array[i], end = "\t")
+    
+   
+# Sorted array is:
+# 2.8    4.6    5.5    5.8	
